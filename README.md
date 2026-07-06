@@ -8,6 +8,7 @@ All Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,8 @@ All Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
