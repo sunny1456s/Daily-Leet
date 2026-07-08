@@ -26,6 +26,7 @@ All Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -34,4 +35,9 @@ All Problems
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sunny1456s/Daily-Leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## String
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
