@@ -9,11 +9,13 @@ All Problems
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +33,7 @@ All Problems
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +43,24 @@ All Problems
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
