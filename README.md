@@ -82,4 +82,8 @@ All Problems
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sunny1456s/Daily-Leet/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
