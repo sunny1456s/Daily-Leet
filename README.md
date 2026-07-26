@@ -8,6 +8,7 @@ All Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -43,6 +44,7 @@ All Problems
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -51,6 +53,7 @@ All Problems
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sunny1456s/Daily-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
