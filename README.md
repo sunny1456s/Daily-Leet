@@ -11,6 +11,7 @@ All Problems
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -43,6 +44,7 @@ All Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
@@ -64,6 +66,7 @@ All Problems
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunny1456s/Daily-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -100,6 +103,7 @@ All Problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunny1456s/Daily-Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sunny1456s/Daily-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -201,8 +205,17 @@ All Problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
