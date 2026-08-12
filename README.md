@@ -16,6 +16,7 @@ All Problems
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny1456s/Daily-Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sunny1456s/Daily-Leet/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -41,6 +42,7 @@ All Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny1456s/Daily-Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +149,7 @@ All Problems
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny1456s/Daily-Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
