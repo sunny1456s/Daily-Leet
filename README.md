@@ -16,6 +16,7 @@ All Problems
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sunny1456s/Daily-Leet/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/sunny1456s/Daily-Leet/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sunny1456s/Daily-Leet/tree/master/2029-stone-game-ix) |
@@ -43,6 +44,7 @@ All Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunny1456s/Daily-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -56,6 +58,7 @@ All Problems
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunny1456s/Daily-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny1456s/Daily-Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -145,6 +148,7 @@ All Problems
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/sunny1456s/Daily-Leet/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunny1456s/Daily-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sunny1456s/Daily-Leet/tree/master/1872-stone-game-viii) |
@@ -198,6 +202,7 @@ All Problems
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sunny1456s/Daily-Leet/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunny1456s/Daily-Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
