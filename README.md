@@ -93,6 +93,7 @@ All Problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sunny1456s/Daily-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/sunny1456s/Daily-Leet/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunny1456s/Daily-Leet/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/sunny1456s/Daily-Leet/tree/master/1872-stone-game-viii) |
@@ -326,4 +327,8 @@ All Problems
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunny1456s/Daily-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sunny1456s/Daily-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
