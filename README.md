@@ -124,6 +124,7 @@ All Problems
 | [0115-distinct-subsequences](https://github.com/sunny1456s/Daily-Leet/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunny1456s/Daily-Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunny1456s/Daily-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/sunny1456s/Daily-Leet/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunny1456s/Daily-Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunny1456s/Daily-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -261,6 +262,7 @@ All Problems
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sunny1456s/Daily-Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunny1456s/Daily-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,4 +338,8 @@ All Problems
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sunny1456s/Daily-Leet/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunny1456s/Daily-Leet/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
