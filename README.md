@@ -7,6 +7,7 @@ All Problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunny1456s/Daily-Leet/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/sunny1456s/Daily-Leet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunny1456s/Daily-Leet/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@ All Problems
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sunny1456s/Daily-Leet/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/sunny1456s/Daily-Leet/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
@@ -144,6 +146,7 @@ All Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sunny1456s/Daily-Leet/tree/master/0189-rotate-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunny1456s/Daily-Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sunny1456s/Daily-Leet/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
