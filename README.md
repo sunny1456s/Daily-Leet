@@ -122,6 +122,7 @@ All Problems
 | [1927-sum-game](https://github.com/sunny1456s/Daily-Leet/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/sunny1456s/Daily-Leet/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/sunny1456s/Daily-Leet/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunny1456s/Daily-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sunny1456s/Daily-Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunny1456s/Daily-Leet/tree/master/3312-sorted-gcd-pair-queries) |
@@ -149,6 +150,7 @@ All Problems
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunny1456s/Daily-Leet/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/sunny1456s/Daily-Leet/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sunny1456s/Daily-Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/sunny1456s/Daily-Leet/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sunny1456s/Daily-Leet/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunny1456s/Daily-Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
