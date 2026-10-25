@@ -13,6 +13,7 @@ All Problems
 | [0628-maximum-product-of-three-numbers](https://github.com/sunny1456s/Daily-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sunny1456s/Daily-Leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sunny1456s/Daily-Leet/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/sunny1456s/Daily-Leet/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/sunny1456s/Daily-Leet/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sunny1456s/Daily-Leet/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/sunny1456s/Daily-Leet/tree/master/1386-cinema-seat-allocation) |
@@ -224,15 +225,18 @@ All Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sunny1456s/Daily-Leet/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/sunny1456s/Daily-Leet/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sunny1456s/Daily-Leet/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/sunny1456s/Daily-Leet/tree/master/2685-count-the-number-of-complete-components) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunny1456s/Daily-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sunny1456s/Daily-Leet/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sunny1456s/Daily-Leet/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/sunny1456s/Daily-Leet/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
@@ -376,6 +380,7 @@ All Problems
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sunny1456s/Daily-Leet/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sunny1456s/Daily-Leet/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/sunny1456s/Daily-Leet/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
